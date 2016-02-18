@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>my_project</groupId>
-  <artifactId>module3</artifactId>
+  <artifactId>module</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -37,7 +37,7 @@
        <configuration>
 	     <jbossHome>C:\Users\kiran\Downloads\jboss-as-7.1.1.Final\jboss-as-7.1.1.Final</jbossHome>
 		 <groupId>my_project</groupId>
-         <artifactId>module3</artifactId>
+         <artifactId>module</artifactId>
          <version>1.0-SNAPSHOT</version>
 	   </configuration>
 		</plugin>
