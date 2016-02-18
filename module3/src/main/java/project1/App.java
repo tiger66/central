@@ -1,4 +1,4 @@
-package my_project;
+package project1;
 
 /**
  * Hello world!
